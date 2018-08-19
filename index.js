@@ -1,7 +1,7 @@
 var katzDeliLine=[]
-var currentLine=0;
+var =0;
 
-function takeANumber(name){
+function takeANumber(currentLine,name){
   
   katzDeliLine[currentLine]=name;
   currentLine+=1;
